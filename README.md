@@ -26,7 +26,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="padding: 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">💼 Freelancer</h3>
-    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Especializado en desarrollo web y móvil con Angular, Java y Spring Boot</p>
+    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Especializado en desarrollo web  con Angular, Java y Spring Boot</p>
   </div>
   <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🎯 Full Stack</h3>
