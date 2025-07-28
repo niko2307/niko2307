@@ -128,7 +128,7 @@
     <span style="background: #f093fb; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9em; margin-right: 8px;">🔹 Responsive</span>
   </div>
   <div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://github.com/niko2307/proyecto-arriendo" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/Torrescjua/RentYourProperty-FrontEnd.git" target="_blank" style="text-decoration: none;">
       <div style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 12px 25px; border-radius: 50px; display: inline-block; font-weight: bold; transition: all 0.3s ease;">
         📦 Ver código fuente
       </div>
