@@ -20,7 +20,7 @@
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge&logo=check-circle" alt="Available" />
     <img src="https://img.shields.io/badge/Location-Colombia-blue?style=for-the-badge&logo=location" alt="Location" />
-    <img src="https://img.shields.io/badge/Experience-3%2B+Years-orange?style=for-the-badge&logo=clock" alt="Experience" />
+    <img src="https://img.shields.io/badge/Experience-2%2B+Years-orange?style=for-the-badge&logo=clock" alt="Experience" />
   </div>
 </div>
 
@@ -55,27 +55,27 @@
         <span style="font-weight: bold; color: #2d3748;">Backend Development</span>
         <span style="color: #667eea; font-weight: bold;">90%</span>
       </div>
-      <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #667eea, #764ba2); height: 100%; width: 90%; border-radius: 10px; animation: fillBar 2s ease-in-out;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: bold; color: #2d3748;">Frontend Development</span>
-        <span style="color: #f093fb; font-weight: bold;">85%</span>
-      </div>
-      <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #f093fb, #f5576c); height: 100%; width: 85%; border-radius: 10px; animation: fillBar 2s ease-in-out 0.5s;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: bold; color: #2d3748;">DevOps & Cloud</span>
-        <span style="color: #4facfe; font-weight: bold;">80%</span>
-      </div>
-      <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #4facfe, #00f2fe); height: 100%; width: 80%; border-radius: 10px; animation: fillBar 2s ease-in-out 1s;"></div>
-      </div>
+             <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
+         <div style="background: linear-gradient(90deg, #667eea, #764ba2); height: 100%; width: 90%; border-radius: 10px; animation: fillBar 2s ease-in-out;"></div>
+       </div>
+     </div>
+     <div>
+       <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+         <span style="font-weight: bold; color: #2d3748;">Frontend Development</span>
+         <span style="color: #f093fb; font-weight: bold;">85%</span>
+       </div>
+       <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
+         <div style="background: linear-gradient(90deg, #f093fb, #f5576c); height: 100%; width: 85%; border-radius: 10px; animation: fillBar2 2s ease-in-out 0.5s;"></div>
+       </div>
+     </div>
+     <div>
+       <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+         <span style="font-weight: bold; color: #2d3748;">DevOps & Cloud</span>
+         <span style="color: #4facfe; font-weight: bold;">80%</span>
+       </div>
+       <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
+         <div style="background: linear-gradient(90deg, #4facfe, #00f2fe); height: 100%; width: 80%; border-radius: 10px; animation: fillBar3 2s ease-in-out 1s;"></div>
+       </div>
     </div>
   </div>
 </div>
@@ -286,6 +286,16 @@
 
 @keyframes fillBar {
   0% { width: 0%; }
-  100% { width: var(--target-width); }
+  100% { width: 90%; }
+}
+
+@keyframes fillBar2 {
+  0% { width: 0%; }
+  100% { width: 85%; }
+}
+
+@keyframes fillBar3 {
+  0% { width: 0%; }
+  100% { width: 80%; }
 }
 </style>
