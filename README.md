@@ -26,10 +26,10 @@
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🎓 Educación</h3>
     <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Estudiante de Ingeniería de Sistemas (8° semestre) en la Javeriana 🇨🇴</p>
   </div>
-      <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
-      <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">💼 Experiencia</h3>
-      <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Freelancer con experiencia en proyectos reales: periódicos digitales, sistemas de reservas y más. Desarrollo de arquitecturas de software y patrones de diseño.</p>
-    </div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
+    <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">💼 Experiencia</h3>
+    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Freelancer con experiencia en proyectos reales: periódicos digitales, sistemas de reservas y más. Desarrollo de arquitecturas de software y patrones de diseño.</p>
+  </div>
   <div style="padding: 25px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🛠️ Stack Principal</h3>
     <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Spring Boot, Angular, PostgreSQL, Docker, Firebase</p>
@@ -51,18 +51,18 @@
     </div>
   </div>
   
-     <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-     <h4 style="margin: 0 0 15px 0; color: #2d3748;">Frontend</h4>
-     <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-     </div>
-   </div>
+  <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <h4 style="margin: 0 0 15px 0; color: #2d3748;">Frontend</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </div>
+  </div>
   
   <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
     <h4 style="margin: 0 0 15px 0; color: #2d3748;">Databases</h4>
@@ -74,17 +74,17 @@
     </div>
   </div>
   
-     <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-     <h4 style="margin: 0 0 15px 0; color: #2d3748;">DevOps & Tools</h4>
-     <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-       <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
-       <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" />
-     </div>
-   </div>
+  <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <h4 style="margin: 0 0 15px 0; color: #2d3748;">DevOps & Tools</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
+      <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" />
+    </div>
+  </div>
 </div>
 
 ---
