@@ -1,16 +1,10 @@
 <div align="center">
   <h1 style="font-size: 3em; margin-bottom: 10px; background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    Hello, I'm <span style="color:#667eea;">Nicolás</span> 👋!
+    Hello, I'm <a href="Nicolas Aguilar.pdf" target="_blank" style="text-decoration: none; color: #667eea; transition: all 0.3s ease;">Nicolás</a> 👋!
   </h1>
   <p style="font-size: 1.3em; color: #4a5568; margin-bottom: 30px;">
     <strong>Full Stack Developer | Freelance | Passionate about creating modern web solutions</strong>
   </p>
-
-  <a href="link-to-your-cv.pdf" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 30px; border-radius: 50px; color: white; font-weight: bold; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); transition: all 0.3s ease; display: inline-block; margin-bottom: 30px;">
-      📄 Download CV
-    </div>
-  </a>
 
   <div style="margin: 30px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Freelancer+with+real+project+experience;DevOps%2C+Docker+and+Cloud+Deployment" alt="Typing SVG" />
