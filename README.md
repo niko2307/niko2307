@@ -1,16 +1,164 @@
-## Hi there 👋
+<div align="center" style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <span style="font-size: 2em; font-weight: bold; color: #4F46E5;">Hola, mi nombre es</span>
+    <a href="link-to-your-cv.pdf" target="_blank" style="text-decoration: none;">
+      <span style="font-size: 2em; font-weight: bold; color: #667eea; text-decoration: underline; cursor: pointer; transition: color 0.3s ease;">Nicolás</span>
+    </a>
+    <span style="font-size: 2em;">👋</span>
+  </div>
+</div>
 
-<!--
-**niko2307/niko2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h2 style="margin: 0 0 15px 0; font-size: 2.5em;">🚀 Desarrollador Full Stack & Freelancer</h2>
+  <p style="font-size: 1.2em; margin: 0 0 20px 0; opacity: 0.9;">¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por crear soluciones digitales innovadoras y de alta calidad.</p>
+  
+  <a href="link-to-your-cv.pdf" target="_blank" style="text-decoration: none;">
+    <div style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 50px; display: inline-block; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease;">
+      <img src="https://img.shields.io/badge/📄-Descargar_CV-white?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
+    </div>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="padding: 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease;">
+    <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">💼 Freelancer</h3>
+    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Especializado en desarrollo web y móvil con Angular, Java y Spring Boot</p>
+  </div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
+    <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🎯 Full Stack</h3>
+    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Desarrollo completo desde frontend hasta backend y bases de datos</p>
+  </div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease;">
+    <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🔧 DevOps</h3>
+    <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Experto en Docker, Linux, Git y herramientas de testing</p>
+  </div>
+</div>
+
+## 🛠️ Stack Tecnológico
+
+<details>
+<summary><b>Frontend Technologies</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Backend Technologies</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Databases & Tools</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" />
+</div>
+
+</details>
+
+## 📈 Proyectos Destacados
+
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <div style="border: 2px solid #e1e5e9; border-radius: 20px; padding: 30px; background: linear-gradient(145deg, #ffffff, #f8f9fa); box-shadow: 0 12px 35px rgba(0,0,0,0.15); transition: transform 0.3s ease; position: relative; overflow: hidden; max-width: 600px; width: 100%;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, #667eea, #764ba2);"></div>
+    <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.8em; text-align: center;">📰 Tiempo Adicional</h3>
+    <p style="margin: 0 0 25px 0; color: #4a5568; line-height: 1.8; font-size: 1.1em; text-align: center;">
+      <strong>Periódico deportivo digital</strong> - Diseñé la arquitectura completa y desarrollé la plataforma web desde cero. 
+      Incluye sistema de gestión de contenido, panel administrativo, y diseño responsivo optimizado para dispositivos móviles.
+    </p>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <a href="https://tiempoadicional.com" target="_blank" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 12px 25px; border-radius: 50px; display: inline-block; font-weight: bold; transition: all 0.3s ease;">
+          🌐 Visitar tiempoadicional.com
+        </div>
+      </a>
+    </div>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </div>
+  </div>
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niko2307&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niko2307&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niko2307&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+## 📫 Contacto
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 30px 0; color: white;">
+  <h3 style="margin: 0 0 25px 0; font-size: 1.8em;">¡Conectemos! 🤝</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+    <a href="mailto:tu-email@ejemplo.com" target="_blank" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.15); padding: 12px 20px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;">
+        <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </div>
+    </a>
+    <a href="https://linkedin.com/in/tu-perfil" target="_blank" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.15); padding: 12px 20px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;">
+        <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </div>
+    </a>
+    <a href="https://tu-portfolio.com" target="_blank" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.15); padding: 12px 20px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;">
+        <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+      </div>
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 40px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
+  <h3 style="margin: 0 0 15px 0; font-size: 2em;">⭐ ¿Interesado en colaborar?</h3>
+  <p style="font-size: 1.2em; margin: 0 0 25px 0; opacity: 0.9;">¡No dudes en contactarme para discutir tu próximo proyecto!</p>
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://komarev.com/ghpvc/?username=niko2307&style=flat-square&color=white" alt="Profile Views" />
+    <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 25px; border: 1px solid rgba(255,255,255,0.3);">
+      <span style="font-weight: bold;">🚀 Disponible para proyectos freelance</span>
+    </div>
+  </div>
+</div>
