@@ -20,7 +20,13 @@
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge&logo=check-circle" alt="Available" />
     <img src="https://img.shields.io/badge/Location-Colombia-blue?style=for-the-badge&logo=location" alt="Location" />
-    <img src="https://img.shields.io/badge/Experience-2%2B+Years-orange?style=for-the-badge&logo=clock" alt="Experience" />
+    <img src="https://img.shields.io/badge/Experience-3%2B+Years-orange?style=for-the-badge&logo=clock" alt="Experience" />
+    <img src="https://komarev.com/ghpvc/?username=niko2307&style=flat-square&color=blue" alt="Profile Views" />
+  </div>
+  
+  <!-- Animated typing stats -->
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=667eea&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Java+%7C+Spring+Boot+%7C+Angular;TypeScript+%7C+JavaScript+%7C+SCSS;PostgreSQL+%7C+Docker+%7C+Firebase" alt="Tech Stack" />
   </div>
 </div>
 
@@ -29,53 +35,41 @@
 ## 🚀 About Me
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-  <div style="padding: 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent); animation: shine 3s infinite;"></div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🎓 Education</h3>
     <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Systems Engineering Student (8th semester) at Javeriana University 🇨🇴</p>
   </div>
-  <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent); animation: shine 3s infinite 1s;"></div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">💼 Experience</h3>
     <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Freelancer with experience in real projects: digital newspapers, booking systems and more. Software architecture development and design patterns.</p>
   </div>
-  <div style="padding: 25px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent); animation: shine 3s infinite 2s;"></div>
+  <div style="padding: 25px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; color: white; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); transition: transform 0.3s ease;">
     <h3 style="margin: 0 0 15px 0; font-size: 1.5em;">🛠️ Main Stack</h3>
     <p style="margin: 0; opacity: 0.9; line-height: 1.6;">Spring Boot, Angular, PostgreSQL, Docker, Firebase</p>
   </div>
 </div>
 
-<!-- Animated progress bars -->
+<!-- Skills Overview with animated badges -->
 <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border: 2px solid #e1e5e9; border-radius: 15px; padding: 25px; margin: 30px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   <h3 style="margin: 0 0 20px 0; color: #2d3748; text-align: center;">📊 Skills Overview</h3>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: bold; color: #2d3748;">Backend Development</span>
-        <span style="color: #667eea; font-weight: bold;">90%</span>
-      </div>
-             <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-         <div style="background: linear-gradient(90deg, #667eea, #764ba2); height: 100%; width: 90%; border-radius: 10px; animation: fillBar 2s ease-in-out;"></div>
-       </div>
-     </div>
-     <div>
-       <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-         <span style="font-weight: bold; color: #2d3748;">Frontend Development</span>
-         <span style="color: #f093fb; font-weight: bold;">85%</span>
-       </div>
-       <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-         <div style="background: linear-gradient(90deg, #f093fb, #f5576c); height: 100%; width: 85%; border-radius: 10px; animation: fillBar2 2s ease-in-out 0.5s;"></div>
-       </div>
-     </div>
-     <div>
-       <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-         <span style="font-weight: bold; color: #2d3748;">DevOps & Cloud</span>
-         <span style="color: #4facfe; font-weight: bold;">80%</span>
-       </div>
-       <div style="background: #e2e8f0; border-radius: 10px; height: 8px; overflow: hidden;">
-         <div style="background: linear-gradient(90deg, #4facfe, #00f2fe); height: 100%; width: 80%; border-radius: 10px; animation: fillBar3 2s ease-in-out 1s;"></div>
-       </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;">
+      <h4 style="margin: 0 0 15px 0;">Backend Development</h4>
+      <img src="https://img.shields.io/badge/Java-90%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-90%25-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-85%25-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </div>
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white;">
+      <h4 style="margin: 0 0 15px 0;">Frontend Development</h4>
+      <img src="https://img.shields.io/badge/Angular-85%25-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/TypeScript-85%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </div>
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; color: white;">
+      <h4 style="margin: 0 0 15px 0;">DevOps & Cloud</h4>
+      <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </div>
   </div>
 </div>
@@ -143,7 +137,7 @@
 
 <div style="border: 2px solid #e1e5e9; border-radius: 20px; padding: 30px; background: linear-gradient(145deg, #ffffff, #f8f9fa); box-shadow: 0 12px 35px rgba(0,0,0,0.15); transition: transform 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, #667eea, #764ba2);"></div>
-  <div style="position: absolute; top: 10px; right: 10px; background: #667eea; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">LIVE</div>
+  <div style="position: absolute; top: 10px; right: 10px; background: #667eea; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">🚀 LIVE</div>
   <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.6em;">📰 Tiempo Adicional</h3>
   <p style="margin: 0 0 25px 0; color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     <strong>Digital sports newspaper</strong> - Informative web platform with sports news and real-time results.
@@ -171,7 +165,7 @@
 
 <div style="border: 2px solid #e1e5e9; border-radius: 20px; padding: 30px; background: linear-gradient(145deg, #ffffff, #f8f9fa); box-shadow: 0 12px 35px rgba(0,0,0,0.15); transition: transform 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, #f093fb, #f5576c);"></div>
-  <div style="position: absolute; top: 10px; right: 10px; background: #f093fb; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">OPEN SOURCE</div>
+  <div style="position: absolute; top: 10px; right: 10px; background: #f093fb; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">📦 OPEN SOURCE</div>
   <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.6em;">🏠 Rental Platform</h3>
   <p style="margin: 0 0 25px 0; color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     <strong>Property management system</strong> - Complete project for rental property management with dashboard, users and listings.
@@ -198,7 +192,7 @@
 
 <div style="border: 2px solid #e1e5e9; border-radius: 20px; padding: 30px; background: linear-gradient(145deg, #ffffff, #f8f9fa); box-shadow: 0 12px 35px rgba(0,0,0,0.15); transition: transform 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, #4facfe, #00f2fe);"></div>
-  <div style="position: absolute; top: 10px; right: 10px; background: #4facfe; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">MOBILE</div>
+  <div style="position: absolute; top: 10px; right: 10px; background: #4facfe; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">📱 MOBILE</div>
   <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.6em;">📱 Android Mobile App</h3>
   <p style="margin: 0 0 25px 0; color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     <strong>Android application</strong> - Mobile app for map and location management with authentication and real-time database.
@@ -242,6 +236,12 @@
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 30px 0; color: white;">
   <h3 style="margin: 0 0 25px 0; font-size: 1.8em;">Let's Connect! 🤝</h3>
+  
+  <!-- Animated visitor counter -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=ffffff&center=true&vCenter=true&multiline=true&width=400&height=40&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out+%3A)" alt="Visitor Message" />
+  </div>
+  
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
     <a href="mailto:nicolas.achaparro@gmail.com" target="_blank" style="text-decoration: none;">
       <div style="background: rgba(255,255,255,0.15); padding: 12px 20px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;">
@@ -278,24 +278,4 @@
   </a>
 </div>
 
-<style>
-@keyframes shine {
-  0% { transform: translateX(-100%) translateY(-100%); }
-  100% { transform: translateX(100%) translateY(100%); }
-}
 
-@keyframes fillBar {
-  0% { width: 0%; }
-  100% { width: 90%; }
-}
-
-@keyframes fillBar2 {
-  0% { width: 0%; }
-  100% { width: 85%; }
-}
-
-@keyframes fillBar3 {
-  0% { width: 0%; }
-  100% { width: 80%; }
-}
-</style>
