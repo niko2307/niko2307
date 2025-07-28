@@ -211,11 +211,8 @@
   <h3 style="margin: 0 0 15px 0; font-size: 2em;">⭐ Interested in collaborating?</h3>
   <p style="font-size: 1.2em; margin: 0 0 25px 0; opacity: 0.9;">Don't hesitate to contact me to discuss your next project!</p>
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=niko2307&style=flat-square&color=white" alt="Profile Views" />
-    <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 25px; border: 1px solid rgba(255,255,255,0.3);">
-      <span style="font-weight: bold;">🚀 Available for freelance projects</span>
-    </div>
+  <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 25px; border: 1px solid rgba(255,255,255,0.3); margin-bottom: 25px; display: inline-block;">
+    <span style="font-weight: bold; font-size: 1.1em;">🚀 Available for freelance projects</span>
   </div>
   
   <a href="mailto:nicolas.achaparro@gmail.com" target="_blank" style="text-decoration: none;">
