@@ -259,7 +259,7 @@
   
   <!-- Animated visitor counter -->
   <div style="margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=ffffff&center=true&vCenter=true&multiline=true&width=400&height=40&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out+%3A)" alt="Visitor Message" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=ffffff&center=true&vCenter=true&multiline=true&width=400&height=40&lines=Thanks+for+visiting+my+profile!;" alt="Visitor Message" />
   </div>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
