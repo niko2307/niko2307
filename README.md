@@ -24,10 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=niko2307&style=flat-square&color=blue" alt="Profile Views" />
   </div>
   
-  <!-- Animated typing stats -->
-  <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=667eea&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Java+%7C+Spring+Boot+%7C+Angular;TypeScript+%7C+JavaScript+%7C+SCSS;PostgreSQL+%7C+Docker+%7C+Firebase" alt="Tech Stack" />
-  </div>
+  
 </div>
 
 ---
@@ -138,7 +135,7 @@
 <div style="border: 2px solid #e1e5e9; border-radius: 20px; padding: 30px; background: linear-gradient(145deg, #ffffff, #f8f9fa); box-shadow: 0 12px 35px rgba(0,0,0,0.15); transition: transform 0.3s ease; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, #667eea, #764ba2);"></div>
   <div style="position: absolute; top: 10px; right: 10px; background: #667eea; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; font-weight: bold;">🚀 LIVE</div>
-  <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.6em;">📰 Tiempo Adicional</h3>
+  <h3 style="margin: 0 0 20px 0; color: #2d3748; font-size: 1.6em;">📰 Additional Time</h3>
   <p style="margin: 0 0 25px 0; color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     <strong>Digital sports newspaper</strong> - Informative web platform with sports news and real-time results.
     I designed the complete architecture and developed the platform from scratch.
@@ -234,6 +231,29 @@
 
 ## 🤝 Contact
 
+
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 40px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
+  <h3 style="margin: 0 0 15px 0; font-size: 2em;">⭐ Interested in collaborating?</h3>
+  <p style="font-size: 1.2em; margin: 0 0 25px 0; opacity: 0.9;">Don't hesitate to contact me to discuss your next project!</p>
+  
+  <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 25px; border: 1px solid rgba(255,255,255,0.3); margin-bottom: 25px; display: inline-block;">
+    <span style="font-weight: bold; font-size: 1.1em;">🚀 Available for freelance projects</span>
+  </div>
+  
+  <a href="mailto:nicolas.achaparro@gmail.com" target="_blank" style="text-decoration: none;">
+    <div style="background: rgba(255,255,255,0.2); padding: 15px 30px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: inline-block; font-weight: bold; font-size: 1.1em;">
+      📧 Contact now
+    </div>
+  </a>
+</div>
+
+---
+
+## 🤝 Contact
+
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 30px 0; color: white;">
   <h3 style="margin: 0 0 25px 0; font-size: 1.8em;">Let's Connect! 🤝</h3>
   
@@ -259,23 +279,6 @@
       </div>
     </a>
   </div>
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 40px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
-  <h3 style="margin: 0 0 15px 0; font-size: 2em;">⭐ Interested in collaborating?</h3>
-  <p style="font-size: 1.2em; margin: 0 0 25px 0; opacity: 0.9;">Don't hesitate to contact me to discuss your next project!</p>
-  
-  <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 25px; border: 1px solid rgba(255,255,255,0.3); margin-bottom: 25px; display: inline-block;">
-    <span style="font-weight: bold; font-size: 1.1em;">🚀 Available for freelance projects</span>
-  </div>
-  
-  <a href="mailto:nicolas.achaparro@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="background: rgba(255,255,255,0.2); padding: 15px 30px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.3); transition: all 0.3s ease; display: inline-block; font-weight: bold; font-size: 1.1em;">
-      📧 Contact now
-    </div>
-  </a>
 </div>
 
 
